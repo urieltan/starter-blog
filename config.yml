@@ -5,7 +5,7 @@ site:
   date:
     format: j F Y
     timezone: Asia/Singapore
-  description: 'Starter blog, with Netlify CMS.'
+  description: Starter blog.
   netlify:
     cms:
       path: admin
