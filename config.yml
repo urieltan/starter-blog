@@ -3,7 +3,7 @@ site:
   baseline: "Your blog's butler."
   baseurl: "/"
   canonicalurl: true
-  description: "Starter blog, with Netlify CMS."
+  description: "Uriel's blog."
   pagination:
     max: 5
     path: "page"
