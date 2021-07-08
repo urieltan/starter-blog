@@ -5,11 +5,14 @@ menu:
     weight: 999
 published: true
 ---
-# About
 Hi, welcome to uriel's blog, where he posts about random things. 
 
 
+
+
+
 # Sample text
+
 > A ready to use static blog, powered by [Hyde](https://github.com/Cecilapp/theme-hyde), [Cecil](https://cecil.app) and [Netlify](https://www.netlify.com).
 
 ## How to use?
